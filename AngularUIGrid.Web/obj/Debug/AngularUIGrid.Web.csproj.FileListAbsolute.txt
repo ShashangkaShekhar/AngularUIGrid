@@ -1,0 +1,179 @@
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\csc.exe
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\vbc.exe
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll.config
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.pdb
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\Newtonsoft.Json.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Net.Http.Formatting.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Helpers.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.WebHost.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Mvc.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Razor.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Razor.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Helpers.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Mvc.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\Newtonsoft.Json.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Net.Http.Formatting.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.WebHost.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.pdb
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.SqlServer.dll
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.SqlServer.xml
+E:\TrialProjects\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.csprojResolveAssemblyReference.cache
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\csc.exe
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\vbc.exe
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll.config
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.pdb
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.SqlServer.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\Newtonsoft.Json.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Net.Http.Formatting.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Helpers.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.WebHost.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Mvc.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Razor.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.SqlServer.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Razor.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Helpers.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Mvc.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\Newtonsoft.Json.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Net.Http.Formatting.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.WebHost.xml
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.csprojResolveAssemblyReference.cache
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.dll
+D:\Article\UI-Grid\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.pdb
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.csprojResolveAssemblyReference.cache
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.pdb
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\csc.exe
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\vbc.exe
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll.config
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\AngularUIGrid.Web.pdb
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\Newtonsoft.Json.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Helpers.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Mvc.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Razor.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Razor.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Helpers.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Mvc.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\Newtonsoft.Json.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.xml
+C:\Users\Shashangka\Downloads\Compressed\AngularUIGrid\AngularUIGrid\AngularUIGrid.Web\bin\System.Web.Http.WebHost.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\csc.exe
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\vbc.exe
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll.config
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\AngularUIGrid.Web.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\AngularUIGrid.Web.pdb
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\EntityFramework.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\EntityFramework.SqlServer.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\Newtonsoft.Json.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Net.Http.Formatting.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Helpers.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Http.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Http.WebHost.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Mvc.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Razor.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Webpages.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\EntityFramework.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\EntityFramework.SqlServer.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Razor.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Webpages.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Webpages.Razor.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Helpers.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Mvc.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\Newtonsoft.Json.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Net.Http.Formatting.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Http.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\bin\System.Web.Http.WebHost.xml
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.dll
+D:\Article\AngularUIGrid\AngularUIGrid - Copy\AngularUIGrid.Web\obj\Debug\AngularUIGrid.Web.pdb
